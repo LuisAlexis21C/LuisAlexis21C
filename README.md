@@ -2,23 +2,14 @@
 
 Soy un apasionado del desarrollo de software y la ingeniería informática, con experiencia en el diseño, maquetación y construcción de sistemas web y orientados a la gestión logística y agilización de procesos. Me encanta crear interfaces limpias, oscuras y funcionales con una excelente experiencia de usuario.
 
+Estudiante de Ingeniería Informática | Desarrollador Full Stack (Iniciante
+
 ### Tecnologías y Herramientas
 
 * **Frontend:** HTML5, CSS3, JavaScript (ES6+), Bootstrap 5, Tailwind CSS, Vue.js, React, Pinia, Vuex
-* **Backend:** Node.js, Express, AdonisJS, Multer, Sequelize, Arquitectura MVC, JWT (JSON Web Tokens)
-* **Bases de Datos & Cloud:** MySQL, Firebase / Firestore
-* **Herramientas & Metodologías:** Git, GitHub Actions (CI/CD), Scrum, Postman, ArcMap (SIG)
-<!--
-**LuisAlexis21C/LuisAlexis21C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* **Backend:** Node.js, Express, Php ,AdonisJS, Multer, Sequelize, Arquitectura MVC, JWT (JSON Web Tokens)
+* **Bases de Datos & Cloud:** MySQL, PostgreSQL
+* **Herramientas & Metodologías:** Git, GitHub Actions (CI/CD), Scrum, Postman.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Estadisticas:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LuisAlexis21C&theme=dark)](https://git.io/streak-stats)
