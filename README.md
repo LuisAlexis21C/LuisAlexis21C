@@ -2,7 +2,7 @@
 
 Soy un apasionado del desarrollo de software y la ingeniería informática, con experiencia en el diseño, maquetación y construcción de sistemas web y orientados a la gestión logística y agilización de procesos. Me encanta crear interfaces limpias, oscuras y funcionales con una excelente experiencia de usuario.
 
-Estudiante de Ingeniería Informática | Desarrollador Full Stack (Iniciante
+Estudiante de Ingeniería Informática | Desarrollador Full Stack (Principiante)
 
 ### Tecnologías y Herramientas
 
