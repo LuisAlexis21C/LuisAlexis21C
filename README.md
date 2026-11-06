@@ -1,5 +1,13 @@
-## Hi there 👋
+## Hola, me llamo ALexis!
 
+Soy un apasionado del desarrollo de software y la ingeniería informática, con experiencia en el diseño, maquetación y construcción de sistemas web y orientados a la gestión logística y agilización de procesos. Me encanta crear interfaces limpias, oscuras y funcionales con una excelente experiencia de usuario.
+
+### Tecnologías y Herramientas
+
+* **Frontend:** HTML5, CSS3, JavaScript (ES6+), Bootstrap 5, Tailwind CSS, Vue.js, React, Pinia, Vuex
+* **Backend:** Node.js, Express, AdonisJS, Multer, Sequelize, Arquitectura MVC, JWT (JSON Web Tokens)
+* **Bases de Datos & Cloud:** MySQL, Firebase / Firestore
+* **Herramientas & Metodologías:** Git, GitHub Actions (CI/CD), Scrum, Postman, ArcMap (SIG)
 <!--
 **LuisAlexis21C/LuisAlexis21C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
